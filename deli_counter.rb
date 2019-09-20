@@ -11,7 +11,7 @@ end
 end
 
 def take_a_number(katz_Deli, name)
-  
+  katz_Deli.each
 puts "Welcome, #{name}. You are number in line."
 
 end
