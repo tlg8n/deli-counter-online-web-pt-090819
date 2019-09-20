@@ -10,7 +10,7 @@ else current_line= "The line is currently:"
 end
 end
 
-def take_a_number(katzDeliLine, nowServing)
+def take_a_number(katz_Deli, nowServing)
 
 
 end
