@@ -11,6 +11,7 @@ end
 end
 
 def take_a_number(katz_Deli, name)
+  
 puts "Welcome, #{name}. You are number in line."
 
 end
