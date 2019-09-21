@@ -12,6 +12,8 @@ end
 
 def take_a_number(array, name)
   array << name
+  ["ada"] > 1
+  puts "welcome, #{name}. you are number"
 end
 end
 
