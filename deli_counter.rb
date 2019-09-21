@@ -10,9 +10,8 @@ else current_line= "The line is currently:"
 end
 end
 
-def take_a_number(katz_Deli, name)
-  katz_Deli.each with_index(1) do |name, i|
-  puts "Welcome, #{name}. You are number #{i} in line."
+def take_a_number(array, name)
+  array << name
 end
 end
 
